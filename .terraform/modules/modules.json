@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"example-server-linuxvm","Source":"Terraform-VMWare-Modules/vm/vsphere","Version":"3.5.0","Dir":".terraform/modules/example-server-linuxvm"}]}
